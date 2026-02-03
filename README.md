@@ -94,19 +94,26 @@ Abaixo estão listados os grupos de pesquisa integrantes do condomínio. Cada se
 
 **Descrição técnica do laboratório:**
 
-> *(Preencher pelo laboratório)*
+> Laboratório voltado ao desenvolvimento de pesquisas aplicadas nas áreas de engenharia e energia, com foco em sistemas térmicos, eficiência energética, refrigeração e soluções tecnológicas voltadas a contextos industriais e comunidades isoladas. O LABENGE atua integrando modelagem matemática, simulação computacional, prototipagem e análise experimental.
 
 **Principais linhas de pesquisa:**
 
-> *(Preencher)*
+- Sistemas de Refrigeração e Ciclos Termodinâmicos Alternativos.
+
+- Eficiência Energética e Otimização de Sistemas Térmicos.
+
+- Desenvolvimento de Protótipos de Engenharia Aplicada.
+
+- Tecnologias Energéticas para Comunidades Isoladas e Sustentabilidade.
 
 **Infraestrutura computacional:**
 
-> *(Preencher)*
+> Servidor para simulação e armazenamento de dados experimentais, estações de trabalho para modelagem e análise numérica (MATLAB, Octave, Python), softwares de simulação termodinâmica e ferramentas CAD/CAE. A infraestrutura suporta também hospedagem de sistemas web para divulgação de projetos, repositórios de dados e documentação técnica.
 
 **Site do laboratório:**
 
-* IP / Endpoint AWS: `___ . ___ . ___ . ___`
+
+* IP / Endpoint AWS: 54.234.4.227
 
 ---
 
