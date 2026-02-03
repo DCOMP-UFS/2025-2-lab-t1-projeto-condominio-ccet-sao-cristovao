@@ -114,11 +114,11 @@ Abaixo estão listados os grupos de pesquisa integrantes do condomínio. Cada se
 
 **Descrição técnica do laboratório:**
 
-> *(Preencher pelo laboratório)*
+> Grupo criado em 2013, vinculado ao DMA/UFS. Ele produz reflexões e práticas sobre usos da argumentação no ensino de matemática.
 
 **Principais linhas de pesquisa:**
 
-> *(Preencher)*
+> Possui três linhas voltadas ao estudo e às práticas dos usos da argumentação no ensino de matemática, com foco nos níveis fundamental e médio e investigação sobre ensino superior.
 
 **Infraestrutura computacional:**
 
