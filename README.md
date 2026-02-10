@@ -170,7 +170,7 @@ Segurança: Segmentação de rede via VLANs e controle de acesso rígido para pr
 
 **Site do laboratório:**
 
-* IP / Endpoint AWS: `3.238.250.177`
+* IP / Endpoint AWS: `98.82.113.78`
 
 ---
 
