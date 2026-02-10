@@ -148,7 +148,7 @@ Segurança: Segmentação de rede via VLANs e controle de acesso rígido para pr
 
 **Site do laboratório:**
 
-* IP / Endpoint AWS: `http://52.5.233.239`
+* IP / Endpoint AWS: `52.5.233.239`
 ---
 
 ### 6️⃣ Geoplan – Geoecologia e Planejamento Territorial
