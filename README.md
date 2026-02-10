@@ -6,7 +6,7 @@ O objetivo do condomínio é **centralizar infraestrutura, padronizar serviços 
 
 ---
 
-## 🌐 Site do Condomínio de Laboratórios
+## 🌐 Site do Condomínio de Laboratórios - [Site](https://flavioinacio-jf.github.io/2025-2-lab-t1-projeto-condominio-ccet-sao-cristovao/Sites/)
 
 O site do condomínio funciona como uma **home institucional unificada**, apresentando todos os laboratórios de pesquisa vinculados.
 
